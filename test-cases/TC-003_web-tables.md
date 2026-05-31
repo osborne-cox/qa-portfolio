@@ -2,7 +2,7 @@
 
 **Страница:** https://demoqa.com/webtables
 **Объект тестирования:** таблица записей с кнопками Add / Edit / Delete и полем Search. Колонки: First Name, Last Name, Age, Email, Salary, Department, Action.
-**Окружение:** Chrome 125 / Windows 10.
+**Окружение:** Firefox / Windows 11.
 
 Предусловие для всех кейсов, кроме оговорённых: на странице по умолчанию три записи (Cierra Vega, Alden Cantrell, Kierra Gentry). Поле Search пустое, выбрана страница 1.
 
